@@ -12,3 +12,7 @@ A list of questions to ask participants of the Career Paths Lab interview series
 8. Do you have any open source regrets?
 9. Who do you look up to in the open source community?
 10. What advice would you give someone at the start of their journey in open source?
+
+
+*Attributions:*
+[Open Source Stories](https://www.opensourcestories.org) resources were used as a reference in development of this questionnaire. Licensed under CC BY-SA 4.0.
